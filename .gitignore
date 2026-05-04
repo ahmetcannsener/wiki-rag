@@ -1,0 +1,7 @@
+chroma_db/
+wikipedia.db
+__pycache__/
+*.pyc
+.env
+oyun-env/
+*.egg-info/
