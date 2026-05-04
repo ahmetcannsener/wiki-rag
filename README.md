@@ -1,5 +1,7 @@
 # Local Wikipedia RAG Assistant
 
+**GitHub Repository:** https://github.com/ahmetcannsener/wiki-rag
+
 A fully local, ChatGPT-style question-answering system that retrieves information from Wikipedia pages about famous people and places, and generates grounded answers using a local language model. No external API calls at runtime.
 
 ---
