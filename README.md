@@ -2,6 +2,8 @@
 
 **GitHub Repository:** https://github.com/ahmetcannsener/wiki-rag
 
+**Video Link:** https://www.youtube.com/watch?v=FSOX0U-_Zg4
+
 A fully local, ChatGPT-style question-answering system that retrieves information from Wikipedia pages about famous people and places, and generates grounded answers using a local language model. No external API calls at runtime.
 
 ---
